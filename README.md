@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently pursuing MS in Computer Science at NYU<br>AI/ML and Data Science Enthusiast<br>Leveraging AI to solve real-world problems
+🎓 Currently pursuing MS in Computer Science at NYU<br>🔭 AI/ML and Data Science Enthusiast<br>⚡️ Leveraging AI to solve real-world problems
 
 
 ## 🌐 Socials:
